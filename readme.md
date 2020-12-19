@@ -7,6 +7,7 @@
       <details>
       Preview
          <img src="https://raw.githubusercontent.com/pmqueiroz/ccObjects/master/src/assets/jpeamandjourwallpainting.png?token=ANA3VJL5CT6GTQ3JMYXFHMC746G44">
+         <span> ik the shadow is kinda creepy but we'll fix that :)</span>
       </details>
 
 [peam&jourwallpainting]: https://github.com/pmqueiroz/ccObjects/blob/master/src/PeamAndJour.package?raw=true
